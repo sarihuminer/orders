@@ -1,0 +1,12 @@
+.Valid{
+    color: greenyellow;
+}
+.NotValid{
+    color: indianred;
+}
+.body{
+    direction: rtl;
+    text-align: right;
+    margin-right: 40px;
+    margin-top: 50px;
+}
